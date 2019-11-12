@@ -1,0 +1,16 @@
+<div style="width: 100%; overflow: auto;scrollbar-base-color:#ffeaff">
+					<table class="table table-striped table-bordered table-hover tabhead nowrap" id="mytable">		
+						<thead>
+							<tr class='' align='center'>
+								<th align="center">No.</th>		
+								<th align="center">Nama Bilik</th>		
+								<th align="center">Panjang Bilik</th>
+								<th align="center">Lebar Bilik</th>
+								<th align="center">Unit</th>
+								<th align="center">Bilangan Meja</th>
+								<th align="center">Bilangan Kerusi</th>
+								<th align="center">Manage</th>
+							</tr>
+						</thead>
+					</table>
+				</div>
